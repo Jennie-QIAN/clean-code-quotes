@@ -26,5 +26,21 @@
   {
     "quote": "Clean code can be read, and enhanced by a developer other than its original author. It has unit and acceptance tests. It has meaningful names. It has minimal dependencies, which are explicitly defined, and provides a clear and minimal API. Code should be literate since depending on the language, not all necessary information can be expressed clearly in code alone._By: Dave Thomas, founder of OTI",
     "note": null
+  },
+  {
+    "quote": "Reduced duplication, high expressiveness, and early building of simple abstractions. That's what makes clean code for me._By: Ron Jeffries, author of Extreme Programming Installed and Extreme Programming Adventures in C#",
+    "note": null
+  },
+  {
+    "quote": "If you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.",
+    "note": null
+  },
+  {
+    "quote": "The Boy Scout Rule: “Leave the campground cleaner than you found it. If we all checked-in our code a little cleaner than when we checked it out, the code simply could not rot.",
+    "note": null
+  },
+  {
+    "quote": "Use intention-revealing names.",
+    "note": null
   }
 ]
