@@ -78,5 +78,33 @@
   {
     "quote": "Avoid using the same word for two purposes. Using the same term for two different ideas is essentially a pun.",
     "note": null
+  },
+  {
+    "quote": "The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that.",
+    "note": null
+  },
+  {
+    "quote": "The blocks within if statements, else statements, while statements, and so on should be one line long. Probably that line should be a function call. Not only does this keep the enclosing function small, but it also adds documentary value because the function called within the block can have a nicely descriptive name.",
+    "note": null
+  },
+  {
+    "quote": "functions should not be large enough to hold nested structures. Therefore, the indent level of a function should not be greater than one or two. This, of course, makes the functions easier to read and understand.",
+    "note": null
+  },
+  {
+    "quote": "Functions should do one thing. They should do it well. They should do it ONLY.",
+    "note": null
+  },
+  {
+    "quote": "Dividing a function into sections is an obvious symptom of doing more than one thing. Functions that do one thing cannot be reasonably divided into sections.",
+    "note": null
+  },
+  {
+    "quote": "In order to make sure our functions are doing 'one thing', we need to make sure that the statements within our function are all at the same level of abstraction.",
+    "note": null
+  },
+  {
+    "quote": "We want the code to read like a top-down narrative. We want every function to be followed by those at the next level of abstraction so that we can read the program. To say this differently, we want to be able to read the program as though it were a set of TO paragraphs, each of which is describing the current level of abstraction and referencing subsequent TO paragraphs at the next level down.",
+    "note": null
   }
 ]
