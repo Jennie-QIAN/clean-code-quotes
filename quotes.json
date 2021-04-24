@@ -110,5 +110,21 @@
   {
     "quote": "General rule for switch statements is that they can be tolerated if they appear only once, are used to create polymorphic objects, and are hidden behind an inheritance relationship so that the rest of the system can’t see them.",
     "note": null
+  },
+  {
+    "quote": "The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where possible. More than three (polyadic) requires very special justification—and then shouldn’t be used anyway.",
+    "note": "pass them as instance variables, instead of passing them around as arguments in functions"
+  },
+  {
+    "quote": "When a function seems to need more than two or three arguments, it is likely that some of those arguments ought to be wrapped into a class of their own.",
+    "note": null
+  },
+  {
+    "quote": "Side effects are lies. Your function promises to do one thing, but it also does other hidden things.",
+    "note": null
+  },
+  {
+    "quote": "Don't repeat yourself. Duplication may be the root of all evil in software. Many principles and practices have been created for the purpose of controlling or eliminating it.",
+    "note": null
   }
 ]
