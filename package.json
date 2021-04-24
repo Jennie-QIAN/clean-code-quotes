@@ -1,0 +1,22 @@
+{
+  "name": "random-clean-code-quote-generator",
+  "version": "1.0.0",
+  "description": "little API to generate a random clean-code quote from Uncle Bob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jennie-QIAN/clean-code-quotes.git"
+  },
+  "keywords": [
+    "clean-code"
+  ],
+  "author": "Zhenni QIAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jennie-QIAN/clean-code-quotes/issues"
+  },
+  "homepage": "https://github.com/Jennie-QIAN/clean-code-quotes#readme"
+}
