@@ -126,5 +126,21 @@
   {
     "quote": "Don't repeat yourself. Duplication may be the root of all evil in software. Many principles and practices have been created for the purpose of controlling or eliminating it.",
     "note": null
+  },
+  {
+    "quote": "When I write functions, they come out long and complicated. They have lots of indenting and nested loops. Theyu have long argument lists. The names are arbitrary, and there is duplicated code. But I also have a suite of unit tests that cover every one of those clumsy lines of code. So then I massage and refine that code, splitting out functions, changing names, eliminating duplication. I shrink the methods and reorder them. Sometimes I break out whole classes, all the while keeping the tests passing.",
+    "note": "working code is better than nothing. start with working code then refine them towards clean code."
+  },
+  {
+    "quote": "The art of programming is, and has always been, the art of language design. Master programmers think of systems as stories to be told rather than programs to be written.",
+    "note": null
+  },
+  {
+    "quote": "When you find yourself in a position where you need to write a comment, think it through and see whether there isn't some way to turn the tables and express yourself in code.",
+    "note": "Don't comment bad code--rewrite it"
+  },
+  {
+    "quote": "It takes onlya few secondes of thought to explain most of your intent in code. In many cases it's simply a matter of creating a function that says the same thing as the comment you want to write.",
+    "note": null
   }
 ]
