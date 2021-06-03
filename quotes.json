@@ -142,5 +142,17 @@
   {
     "quote": "It takes onlya few secondes of thought to explain most of your intent in code. In many cases it's simply a matter of creating a function that says the same thing as the comment you want to write.",
     "note": null
+  },
+  {
+    "quote": "Code formatting is important. Code formatting is about communication, and communication is the professional developer’s first order of business.",
+    "note": null
+  },
+  {
+    "quote": "Perhaps you thought that “getting it working” was the first order of business for a professional developer. I hope by now, however, that this book has disabused you of that idea. The functionality that you create today has a good chance of changing in the next release, but the readability of your code will have a profound effect on all the changes that will ever be made. The coding style and readability set precedents that continue to affect maintainability and extensibility long after the original code has been changed beyond recognition. Your style and discipline survives, even though your code does not.",
+    "note": "Write easy to read codes, but at the same time, save time arguing or hesitating on trivial formating/convention stuff, and boost velocity by getting the work done!"
+  },
+  {
+    "quote": "Small files (with fewer lines) are usually easier to understand than large files are.",
+    "note": null
   }
 ]
