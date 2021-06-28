@@ -157,7 +157,7 @@
   },
   {
     "quote": "vertical openness between concepts: Each line represents an expression or a clause, and each group of lines",
-    "note": null
+    "note": "group relative things together"
   },
   {
     "quote": "Variable declarations: Variables should be declared as close to their usage as possible. Because our functions are very short, local variables should appear a the top of each function",
